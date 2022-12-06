@@ -186,6 +186,7 @@ def user_stats(df):
     print('-'*40)
 
 # Display data
+# Meet the requirement
 def display_data(df):    
     start_loc = 0
     view_data = 'False'
