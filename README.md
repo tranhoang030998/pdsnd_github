@@ -12,4 +12,9 @@ Allow user to explore data related to bike share systems for 3 main city in US: 
 ### Files used
 BikeShare.py and csv files
 
+### Additional Changes
+A dummy addition changes in README here.
+
+This README.md is completely for practice purpose.
+
 Source: Udacity
