@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -183,7 +184,9 @@ def user_stats(df):
     
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-    
+
+# Display data
+# Meet the requirement
 def display_data(df):    
     start_loc = 0
     view_data = 'False'
