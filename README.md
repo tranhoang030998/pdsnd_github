@@ -15,6 +15,3 @@ BikeShare.py and csv files
 ### Additional Changes
 A dummy addition changes in README here.
 
-This README.md is completely for practice purpose.
-
-Source: Udacity
